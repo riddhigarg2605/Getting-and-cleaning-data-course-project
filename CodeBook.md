@@ -1,8 +1,6 @@
 
 The `run_analysis.R` solves and outputs all the questions asked in the PGA
-
-    
-    <br/>
+  <br/>
  **Assigning each data to variables**
     + `features` <- `features.txt` : 561 rows, 2 columns <br/>
         *The features selected for this database come from the accelerometer and gyroscope 3-axial raw signals tAcc-XYZ and tGyro-XYZ.*
